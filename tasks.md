@@ -1,0 +1,15 @@
+# Tasks
+
+In this document, we keep track of both a work breakdown structure and a network diagram.
+
+## Network diagram
+
+| Task ID | Name                                      | Priority | Depends upon |
+| ------- | ----------------------------------------- | -------- | ------------ |
+| 1       | Plan what to write in the profile readme. | 1        |              |
+
+## Work breakdown structure
+
+| Task ID | Name                                      | Priority | Depends upon |
+| ------- | ----------------------------------------- | -------- | ------------ |
+| 1       | Plan what to write in the profile readme. | 1        |              |
