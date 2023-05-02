@@ -1,15 +1,9 @@
-# .github
+Hello! :wave:
 
-This is a special repository that enables me to have a README on my personal GitHub page itself.
+This is my personal GitHub page. I'm Johan, a computer engineer from Sweden with a love for gaming and accessibility.
 
-## Goals
+While I do most of my programming for my company [JN Programutveckling AB](https://github.com/jn-programutveckling), I work on a number of hobby projects which code, if open-source, can be found on this personal GitHub.
 
-The goal of this project is to create and maintain an informative and appealing landing page for my personal GitHub.
+## Programming languages
 
-## Usage
-
-What you see is what you get. Go to [my GitHub page](https://github.com/olivertwistor) to see this project in action.
-
-## Licenses
-
-.github is distributed under an MIT License. Read the full terms in the file [LICENSE](LICENSE).
+My main programming language is Java, but I also use PHP, HTML/CSS, Python and C#. Recently, I've also delved into the wondrous world of JavaScript and specifically Node.js. My next language in my to-learn list is GDScript, a scripting language for the [Godot game engine](https://godotengine.org/).
