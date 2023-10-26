@@ -1,13 +1,15 @@
 # How to contribute
 
-I'm honoured that you are interested in contributing to my project. Open source is all about community and collaboration. People like you make it all possible.
-
-A good way to contribute is to look for typos or things that don't seem right, and [open an issue](https://github.com/olivertwistor/.github/issues/new). Better yet, if you're feeling so inclined, you may work on a fix yourself and when you're done, [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). If your fix is accepted by me, it will be included in this project.
-
-I only use GitHub issues for things reported by you, not for all tasks in the whole project. An empty issue list doesn't necessarily mean that there is no ongoing development. I use an offline project manager to better be able to plan my work.
+Collaboration is one of the things that make open-source so great. To achieve collaboration, we need contributors—contributors like you. So, thank you for being here!
 
 ## Code of conduct
 
-Open source should be as inclusive as possible. I have a zero tolerance policy regarding discrimination of any kind. Try to be mindful of how you communicate with other users on GitHub. Behind the usernames are real people, and if you find someone who creates a "stupid" issue, comment or pull request, I urge you to be respectful. They may be a beginner, which we have all been at one time.
+It's very important to me that everyone involved in this project in some way show each other respect and accept each other's differences, whether they are related to gender identity and expression, sexual orientation, disability, age, race, ethnicity, political affiliation, religion, profession, skill level or any other such attribute. I want everyone to be able to feel that this is a safe space to be. Any abusive or demeaning behaviour will be acted upon.
 
-Feel free to [reach out to me][mailto:oliver_twistor@hotmail.com] if you have any questions about this or if you have had a bad experience with this community.
+If you are experiencing problems regarding other people's behaviour within this project, don't hesitate to [e-mail me][contact-email] so I can start working on a solution.
+
+## Check my spelling and grammar
+
+English isn't my native language. There's no doubt that I have made several spelling and grammar mistakes throughout the documents within this project. If you spot one or more of those, or if you have an idea how to make a piece of text more succinct or easier to read, feel free to make a pull request with the corrections you would like to see. If you don't want to do that, or aren't really sure how, you can create an issue instead, where you describe the corrections you would like me to make.
+
+[contact-email]: mailto:oliver_twistor@hotmail.com

@@ -6,4 +6,4 @@ While I do most of my programming for my company [JN Programutveckling AB](https
 
 ## Programming languages
 
-My main programming language is Java, but I also use PHP, HTML/CSS, Python and C#. Recently, I've also delved into the wondrous world of JavaScript and specifically Node.js. My next language in my to-learn list is GDScript, a scripting language for the [Godot game engine](https://godotengine.org/).
+My main programming language is Java, but I also use PHP, HTML/CSS, Python and C#. Recently, I've also delved into the wondrous world of JavaScript and specifically Node.js. I have also started working with [Godot](https://godotengine.org/) and GDScript.
