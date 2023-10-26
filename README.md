@@ -2,7 +2,7 @@ Hello! :wave:
 
 This is my personal GitHub page. I'm Johan, a computer engineer from Sweden with a love for gaming and accessibility.
 
-While I do most of my programming for my company [JN Programutveckling AB](https://github.com/jn-programutveckling), I work on a number of hobby projects which code, if open-source, can be found on this personal GitHub.
+While I do most of my programming for my company [JN Programutveckling AB](https://github.com/jn-programutveckling), I work on a number of hobby projects whose code, if open-source, can be found on this personal GitHub.
 
 ## Programming languages
 
